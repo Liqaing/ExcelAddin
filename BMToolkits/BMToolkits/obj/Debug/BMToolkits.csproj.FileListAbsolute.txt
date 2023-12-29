@@ -1,0 +1,15 @@
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\bin\Debug\BMToolkits.dll
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\bin\Debug\BMToolkits.pdb
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\bin\Debug\BMToolkits.dll.manifest
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\bin\Debug\BMToolkits.vsto
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\obj\Debug\BMToolkits.csproj.AssemblyReference.cache
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\obj\Debug\BMToolkits.Properties.Resources.resources
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\obj\Debug\BMToolkits.csproj.GenerateResource.cache
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\obj\Debug\BMToolkits.csproj.CoreCompileInputs.cache
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\obj\Debug\BMToolkits.csproj.CopyComplete
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\obj\Debug\BMToolkits.dll
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\obj\Debug\BMToolkits.pdb
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\obj\Debug\BMToolkits.ribbon.resources
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\bin\Debug\BMToolkits.dll.config
+D:\Excel Formula\BMToolkits\BMToolkits\BMToolkits\obj\Debug\BMToolkits.sameFileControl.resources
